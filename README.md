@@ -1,4 +1,4 @@
 ﻿# advanced_python
-name of the files are : KoppOriane_ZahriReda_W# with the assignement number appropriated for the specific week
+name of the files are : KoppOriane_ZahriReda --> if files inside a .zip file, rename all the files that are inside
 
 pourquoi on parle anglais 
